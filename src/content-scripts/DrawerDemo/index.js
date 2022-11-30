@@ -1,3 +1,3 @@
-import DrawerDemo from './DrawerDemo';
+import DrawerDemo from './DrawerDemo'
 
-export default DrawerDemo;
+export default DrawerDemo

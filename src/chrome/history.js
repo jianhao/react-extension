@@ -1,12 +1,9 @@
-/* eslint-disable no-undef */
 function go(url, callback) {
-    const win = window.open(url);
+  const win = window.open(url)
 
-    if (callback) {
-        callback(win);
-    }
+  if (callback) {
+    callback(win)
+  }
 }
 
-export {
-    go
-};
+export { go }

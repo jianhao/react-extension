@@ -1,3 +1,3 @@
-import ContentScripts from './ContentScripts';
+import ContentScripts from './ContentScripts'
 
-new ContentScripts();
+new ContentScripts()

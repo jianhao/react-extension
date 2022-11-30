@@ -1,4 +1,4 @@
-# antd-chrome-extension-boilerplate
+# react-extension
 使用 react + antd 开发 chrome-extension 的脚手架工程，具有热加载功能。
 
 ## 特性
@@ -19,7 +19,7 @@ npm run start
 npm run build
 ```
 
-打包模式，不赘述。
+打包到 dist 目录
 
 ## 相关文章
 
