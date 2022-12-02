@@ -1,4 +1,3 @@
-/* eslint-disable no-undef */
 // 统一消息格式
 class ChromeMessage {
   constructor(msg, params) {

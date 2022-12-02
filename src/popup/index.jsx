@@ -1,5 +1,5 @@
 import React from 'react'
 import { render } from 'react-dom'
-import Popup from './Popup'
+import CookieList from './CookieList'
 
-render(<Popup />, document.querySelector('#chrome-extension-popup'))
+render(<CookieList />, document.querySelector('#chrome-extension-popup'))

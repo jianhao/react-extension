@@ -1,0 +1,25 @@
+
+body {
+  height: unset;
+}
+
+.cookie-list-wrap {
+  width: 230px;
+  height: 230px;
+  margin: 30px 20px 40px 20px;
+}
+
+.form-button {
+  width: 100%;
+}
+
+// 友好提示文案
+.friendly-tips {
+  color: #20a0ff;
+  background: rgba(2, 131, 255, 0.1);
+  line-height: 20px;
+  padding: 8px 12px;
+  margin-bottom: 24px;
+  word-wrap: break-word;
+  word-break: break-all;
+}

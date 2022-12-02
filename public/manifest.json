@@ -5,13 +5,14 @@
   "description": "This is an extension for get cookies",
   "author": "jianhao",
   "icons": {
-    "16": "icons/ic_16.png",
-    "48": "icons/ic_48.png",
-    "128": "icons/ic_128.png"
+    "16": "icons/icon_16.png",
+    "48": "icons/icon_48.png",
+    "128": "icons/icon_128.png"
   },
   "permissions": [
     "contextMenus",
     "tabs",
+    "cookies",
     "activeTab",
     "storage",
     "background",
@@ -24,8 +25,8 @@
     "service_worker": "js/background.js"
   },
   "action": {
-    "default_icon": "icons/ic_16.png",
-    "default_title": "Extension Popup",
+    "default_icon": "icons/icon_48.png",
+    "default_title": "Cookie Extension",
     "default_popup": "html/popup.html"
   },
   "content_scripts": [
